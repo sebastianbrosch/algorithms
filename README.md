@@ -1,2 +1,2 @@
-# algorithms
-A collection of algorithms.
+# Algorithms
+A collection of Algorithms.
